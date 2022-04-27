@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nxZvB5eyc3T53WKuoK6CepdKpCnASo4I4IB24v7BY2A6Xu53yUXcFM4Zy51rxOqCaZ0LgRQgq/MxHQQf6Hlgkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murari.jha\\Downloads\\DotnetDocsShow.MinimalApis-main\\DotnetDocsShow.NewWebApi\\Structured.ControllerBasedAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murari.jha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.5\\swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

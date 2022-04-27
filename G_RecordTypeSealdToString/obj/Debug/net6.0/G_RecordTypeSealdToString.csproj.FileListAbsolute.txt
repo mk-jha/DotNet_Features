@@ -1,0 +1,5 @@
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\G_RecordTypeSealdToString\obj\Debug\net6.0\G_RecordTypeSealdToString.csproj.AssemblyReference.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\G_RecordTypeSealdToString\obj\Debug\net6.0\G_RecordTypeSealdToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\G_RecordTypeSealdToString\obj\Debug\net6.0\G_RecordTypeSealdToString.AssemblyInfoInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\G_RecordTypeSealdToString\obj\Debug\net6.0\G_RecordTypeSealdToString.AssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\G_RecordTypeSealdToString\obj\Debug\net6.0\G_RecordTypeSealdToString.csproj.CoreCompileInputs.cache

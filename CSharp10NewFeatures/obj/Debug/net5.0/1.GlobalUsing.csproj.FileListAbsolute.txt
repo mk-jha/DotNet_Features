@@ -1,0 +1,4 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net5.0\1.GlobalUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net5.0\1.GlobalUsing.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net5.0\1.GlobalUsing.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net5.0\1.GlobalUsing.csproj.CoreCompileInputs.cache

@@ -1,0 +1,29 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\ref\H_ImprovementInStructType.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\ref\H_ImprovementInStructType.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.genruntimeconfig.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.exe
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.deps.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.runtimeconfig.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\ref\H_ImprovementInStructType.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\bin\Debug\net6.0\H_ImprovementInStructType.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.AssemblyInfoInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.AssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.csproj.CoreCompileInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\ref\H_ImprovementInStructType.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\H_ImprovementInStructType\obj\Debug\net6.0\H_ImprovementInStructType.genruntimeconfig.cache

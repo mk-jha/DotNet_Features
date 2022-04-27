@@ -1,0 +1,15 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\FileScopedNameSpace.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\FileScopedNameSpace.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\FileScopedNameSpace.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\FileScopedNameSpace.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\ref\FileScopedNameSpace.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\FileScopedNameSpace.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\FileScopedNameSpace.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\FileScopedNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\FileScopedNameSpace.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\FileScopedNameSpace.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\FileScopedNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\FileScopedNameSpace.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\ref\FileScopedNameSpace.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\FileScopedNameSpace.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\FileScopedNameSpace.genruntimeconfig.cache

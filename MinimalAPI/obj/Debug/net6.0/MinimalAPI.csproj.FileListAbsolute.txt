@@ -1,0 +1,48 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\ref\MinimalAPI.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\scopedcss\bundle\MinimalAPI.styles.css
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\ref\MinimalAPI.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.genruntimeconfig.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\appsettings.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.exe
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.deps.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.runtimeconfig.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\ref\MinimalAPI.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\MinimalAPI.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.csproj.AssemblyReference.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.AssemblyInfoInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.AssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.csproj.CoreCompileInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\scopedcss\bundle\MinimalAPI.styles.css
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.csproj.CopyComplete
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\ref\MinimalAPI.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\MinimalAPI\obj\Debug\net6.0\MinimalAPI.genruntimeconfig.cache

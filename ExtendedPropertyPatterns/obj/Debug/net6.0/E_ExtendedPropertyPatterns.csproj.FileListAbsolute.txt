@@ -1,0 +1,29 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\ref\E_ExtendedPropertyPatterns.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\ref\E_ExtendedPropertyPatterns.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.genruntimeconfig.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.exe
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.deps.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.runtimeconfig.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\ref\E_ExtendedPropertyPatterns.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\bin\Debug\net6.0\E_ExtendedPropertyPatterns.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.AssemblyInfoInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.AssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.csproj.CoreCompileInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\ref\E_ExtendedPropertyPatterns.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\ExtendedPropertyPatterns\obj\Debug\net6.0\E_ExtendedPropertyPatterns.genruntimeconfig.cache

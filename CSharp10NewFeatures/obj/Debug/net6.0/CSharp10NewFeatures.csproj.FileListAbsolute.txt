@@ -1,0 +1,15 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\CSharp10NewFeatures.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\CSharp10NewFeatures.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\CSharp10NewFeatures.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\CSharp10NewFeatures.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\ref\CSharp10NewFeatures.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\CSharp10NewFeatures.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\CSharp10NewFeatures.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\CSharp10NewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\CSharp10NewFeatures.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\CSharp10NewFeatures.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\CSharp10NewFeatures.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\CSharp10NewFeatures.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\ref\CSharp10NewFeatures.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\CSharp10NewFeatures.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\CSharp10NewFeatures.genruntimeconfig.cache

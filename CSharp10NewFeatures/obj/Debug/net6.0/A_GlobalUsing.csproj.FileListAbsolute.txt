@@ -1,0 +1,29 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\ref\A_GlobalUsing.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\ref\A_GlobalUsing.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.genruntimeconfig.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.exe
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.deps.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.runtimeconfig.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\ref\A_GlobalUsing.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\bin\Debug\net6.0\A_GlobalUsing.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.AssemblyInfoInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.AssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.csproj.CoreCompileInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\ref\A_GlobalUsing.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\CSharp10NewFeatures\obj\Debug\net6.0\A_GlobalUsing.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\B_FileScopedNameSpace.exe
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\B_FileScopedNameSpace.deps.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\B_FileScopedNameSpace.runtimeconfig.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\B_FileScopedNameSpace.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\ref\B_FileScopedNameSpace.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\bin\Debug\net6.0\B_FileScopedNameSpace.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\B_FileScopedNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\B_FileScopedNameSpace.AssemblyInfoInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\B_FileScopedNameSpace.AssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\B_FileScopedNameSpace.csproj.CoreCompileInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\B_FileScopedNameSpace.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\ref\B_FileScopedNameSpace.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\B_FileScopedNameSpace.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\FileScopedNameSpace\obj\Debug\net6.0\B_FileScopedNameSpace.genruntimeconfig.cache

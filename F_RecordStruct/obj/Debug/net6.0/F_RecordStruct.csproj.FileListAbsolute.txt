@@ -1,0 +1,29 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.csproj.AssemblyReference.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\ref\F_RecordStruct.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\ref\F_RecordStruct.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.genruntimeconfig.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.exe
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.deps.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.runtimeconfig.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\ref\F_RecordStruct.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\bin\Debug\net6.0\F_RecordStruct.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.AssemblyInfoInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.AssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.csproj.CoreCompileInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\ref\F_RecordStruct.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\F_RecordStruct\obj\Debug\net6.0\F_RecordStruct.genruntimeconfig.cache

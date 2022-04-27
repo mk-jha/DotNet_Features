@@ -1,0 +1,50 @@
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.exe
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.deps.json
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.runtimeconfig.json
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.dll
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\ref\DotnetDocsShow.Structured.Scanning.dll
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.pdb
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.csproj.AssemblyReference.cache
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.AssemblyInfoInputs.cache
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.AssemblyInfo.cs
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\scopedcss\bundle\DotnetDocsShow.Structured.Scanning.styles.css
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.csproj.CopyComplete
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.dll
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\ref\DotnetDocsShow.Structured.Scanning.dll
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.pdb
+C:\Users\murari.jha\Downloads\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.genruntimeconfig.cache
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.exe
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.deps.json
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.runtimeconfig.json
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.dll
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\ref\DotnetDocsShow.Structured.Scanning.dll
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\DotnetDocsShow.Structured.Scanning.pdb
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.csproj.AssemblyReference.cache
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.AssemblyInfoInputs.cache
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.AssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.csproj.CoreCompileInputs.cache
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.MvcApplicationPartsAssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.MvcApplicationPartsAssemblyInfo.cache
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\scopedcss\bundle\DotnetDocsShow.Structured.Scanning.styles.css
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.csproj.CopyComplete
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.dll
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\ref\DotnetDocsShow.Structured.Scanning.dll
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.pdb
+D:\Kellton\PoC\DotNet 6\DotnetDocsShow.MinimalApis-main\DotnetDocsShow.Structured.Scanning\obj\Debug\net6.0\DotnetDocsShow.Structured.Scanning.genruntimeconfig.cache

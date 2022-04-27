@@ -1,0 +1,29 @@
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.exe
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.deps.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.runtimeconfig.json
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\ref\HotReload.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.AssemblyInfoInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.AssemblyInfo.cs
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.csproj.CoreCompileInputs.cache
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\ref\HotReload.dll
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.pdb
+C:\Users\murari.jha\source\repos\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.genruntimeconfig.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.exe
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.deps.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.runtimeconfig.json
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\ref\HotReload.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\bin\Debug\net6.0\HotReload.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.AssemblyInfoInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.AssemblyInfo.cs
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.csproj.CoreCompileInputs.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\ref\HotReload.dll
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.pdb
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.genruntimeconfig.cache
+D:\Kellton\PoC\DotNet 6\CSharp10NewFeatures\HotReload\obj\Debug\net6.0\HotReload.csproj.AssemblyReference.cache

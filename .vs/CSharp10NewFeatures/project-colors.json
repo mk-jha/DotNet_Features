@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55224ac0-7dcc-42c4-891e-416c64acfee3": {
+      "ProjectGuid": "55224ac0-7dcc-42c4-891e-416c64acfee3",
+      "DisplayName": "A_GlobalUsing",
+      "ColorIndex": 0
+    },
+    "f5cadd4d-6060-4758-a049-4ed2b50e4877": {
+      "ProjectGuid": "f5cadd4d-6060-4758-a049-4ed2b50e4877",
+      "DisplayName": "B_FileScopedNameSpace",
+      "ColorIndex": 1
+    },
+    "ff1aed6b-5bb0-4c3b-8c00-b04e0675cbfe": {
+      "ProjectGuid": "ff1aed6b-5bb0-4c3b-8c00-b04e0675cbfe",
+      "DisplayName": "C_ConstInterpolationString",
+      "ColorIndex": 2
+    },
+    "fb27db74-744f-4953-8545-a8dac03c5c6b": {
+      "ProjectGuid": "fb27db74-744f-4953-8545-a8dac03c5c6b",
+      "DisplayName": "D_LembdaImprovements",
+      "ColorIndex": 3
+    },
+    "0884fdc7-4dbc-49cf-b8fd-8c920befaf47": {
+      "ProjectGuid": "0884fdc7-4dbc-49cf-b8fd-8c920befaf47",
+      "DisplayName": "E_ExtendedPropertyPatterns",
+      "ColorIndex": 4
+    },
+    "fd42f552-1f26-462a-8110-9094a3abd639": {
+      "ProjectGuid": "fd42f552-1f26-462a-8110-9094a3abd639",
+      "DisplayName": "F_RecordStruct",
+      "ColorIndex": 5
+    },
+    "43b8d070-cc8f-4a53-b908-7a71ac5abe91": {
+      "ProjectGuid": "43b8d070-cc8f-4a53-b908-7a71ac5abe91",
+      "DisplayName": "G_RecordTypeSealdToString",
+      "ColorIndex": 6
+    },
+    "5ac9785c-4b78-4518-b5cb-1e7b4cd8a797": {
+      "ProjectGuid": "5ac9785c-4b78-4518-b5cb-1e7b4cd8a797",
+      "DisplayName": "H_ImprovementInStructType",
+      "ColorIndex": 7
+    },
+    "97612b4c-5515-49fb-a200-04742ec28235": {
+      "ProjectGuid": "97612b4c-5515-49fb-a200-04742ec28235",
+      "DisplayName": "I_AssignmentandDeclaration",
+      "ColorIndex": 8
+    },
+    "57371999-c14d-4a4c-bbcc-4718126da153": {
+      "ProjectGuid": "57371999-c14d-4a4c-bbcc-4718126da153",
+      "DisplayName": "MinimalAPI",
+      "ColorIndex": 9
+    },
+    "3cb4679d-98b6-4a63-99db-d44912b5d5ad": {
+      "ProjectGuid": "3cb4679d-98b6-4a63-99db-d44912b5d5ad",
+      "DisplayName": "HotReload",
+      "ColorIndex": 10
+    },
+    "9640877b-2acf-423c-b9a9-b1d6786a45e5": {
+      "ProjectGuid": "9640877b-2acf-423c-b9a9-b1d6786a45e5",
+      "DisplayName": "Structured.MinimalAPI",
+      "ColorIndex": 11
+    },
+    "37ba08d4-5116-481f-b106-cc43f813a55a": {
+      "ProjectGuid": "37ba08d4-5116-481f-b106-cc43f813a55a",
+      "DisplayName": "Structured.ControllerBasedAPI",
+      "ColorIndex": 12
+    },
+    "cd6d0523-b079-475a-b748-e9ea1c3cd633": {
+      "ProjectGuid": "cd6d0523-b079-475a-b748-e9ea1c3cd633",
+      "DisplayName": "Structured.MvcWebApp",
+      "ColorIndex": 13
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 14
+}
