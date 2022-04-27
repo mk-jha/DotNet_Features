@@ -1,12 +1,15 @@
-New features of .NET6 including C# 10
-Global using directives
-File-scoped namespace declaration
-Allow const interpolated strings
-Improvements on lambda expressions
-Extended property patterns
-Record structs
-Record types can seal ToString()
-Improvements of structure types
-Allow both assignment and declaration in the same deconstruction
-Developer productivity enhancements like hot reload
-Minimal Web APIs for cloud native apps
+
+
+
+
+1. Global using directives
+2. File-scoped namespace declaration
+3. Allow const interpolated strings
+4. Improvements on lambda expressions
+5. Extended property patterns
+6. Record structs
+7. Record types can seal ToString()
+8. Improvements of structure types
+9. Allow both assignment and declaration in the same deconstruction
+10.Developer productivity enhancements like hot reload
+11. Minimal Web APIs for cloud native apps
